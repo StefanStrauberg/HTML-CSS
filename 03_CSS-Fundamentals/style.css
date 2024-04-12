@@ -125,3 +125,35 @@ a:active {
   font-style: italic;
 }
 /*LVHA*/
+
+/*Priority*/
+/*
+High
+  Declaration marked !important
+  Inline style (style attribute in HTML)
+  ID (#) selector
+  Class (.) or pseudo-class (:) selector
+  Element selector (p, div, li, etc)
+  Universal selector
+Low
+*/
+/* #copyright {
+  color: red;
+}
+
+.copyrhight {
+  color: blue;
+}
+
+.text {
+  color: yellow;
+}
+
+footer p {
+  color: green;
+}
+
+/*Max priority by !Important*/
+footer p {
+  color: green !important;
+} */
