@@ -137,7 +137,8 @@ High
   Universal selector
 Low
 */
-/* #copyright {
+/* 
+#copyright {
   color: red;
 }
 
@@ -153,7 +154,7 @@ footer p {
   color: green;
 }
 
-/*Max priority by !Important*/
 footer p {
   color: green !important;
-} */
+} 
+*/
