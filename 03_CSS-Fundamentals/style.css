@@ -171,13 +171,9 @@ li:last-child {
   color: red;
 } */
 
+/* It doesn't work */
 /* article p:first-child {
   color: red;
-} */
-
-/* It doesn't work*/
-/* article p:first-child {
-  color: palevioletred;
 } */
 /* ------------------------------ */
 
@@ -233,7 +229,7 @@ High
 Low
 */
 /* footer p {
-  color: green !important;
+  color: pink !important;
 } */
 
 /* #copyright {
