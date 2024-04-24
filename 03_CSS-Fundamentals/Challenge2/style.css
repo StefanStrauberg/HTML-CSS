@@ -66,6 +66,7 @@ body {
 /* BUTTON */
 .add-cart {
   background-color: #000;
+  border: none;
   color: #fff;
   text-transform: uppercase;
   font-size: 20px;
