@@ -220,14 +220,16 @@ nav {
   display: block;
 }
 
-.article {
+article {
   width: 825px;
   float: left;
 }
-.aside {
+
+aside {
   width: 300px;
   float: right;
 }
-.footer {
+
+footer {
   clear: both;
 }
